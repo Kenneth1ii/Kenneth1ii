@@ -1,6 +1,6 @@
 ![](https://lirp.cdn-website.com/49f567fb/dms3rep/multi/opt/photo-1572216026870-aa136802e931-de0d9ee1-960w.jpg)
 ### Hi there 👋, My name is Kenneth Li.
-I am a Software Engineer based in Boston, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in C++, Python, Javascript, Swift, Django, React, Node.Js, MongoDB, and SQL. I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+I am a Software Engineer based in New York, NY. I am proficient in both Frontend development and Backend development. I have extensive knowledge in C++, Python, Javascript, Swift, Django, React, Node.Js, MongoDB, and SQL. I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
