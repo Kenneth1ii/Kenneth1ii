@@ -67,7 +67,7 @@ I am a Software Engineer based in New York, NY. I am proficient in both Frontend
         <p> <a href="https://github.com/Kenneth1ii/Commerces" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://github.com/Kenneth1ii/Commerces" rel="nofollow">
-            <img src="https://media.giphy.com/media/FQml6vOpg9xsUNC7Cm/giphy.gif" max-width="100%" alt="">
+            <img src="https://media.giphy.com/media/iYkc1ccsf9wlfkDpky/giphy.gif" max-width="100%" alt="">
         </a>
         <p><strong>Python, Django, SQLite</strong> - An ecommerces website for auctioning listing items. Custom listing and feedback features. Add items to watchlisting and notifies users when bid is almost over.</p>
     </td>
